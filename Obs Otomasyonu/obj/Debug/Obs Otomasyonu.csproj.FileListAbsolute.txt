@@ -1,0 +1,26 @@
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.exe.config
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.exe
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.pdb
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.Form1.resources
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogrenciGiris.resources
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogretmenGiris.resources
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.Properties.Resources.resources
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.exe
+C:\Users\ERTAM-PC\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.pdb
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.exe.config
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.exe
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\bin\Debug\Obs Otomasyonu.pdb
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.Form1.resources
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogrenciGiris.resources
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogretmenGiris.resources
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.Properties.Resources.resources
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.exe
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs Otomasyonu.pdb
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogrenciSistem.resources
+C:\Users\Aybars\source\repos\Obs Otomasyonu\Obs Otomasyonu\obj\Debug\Obs_Otomasyonu.ogretmenSistem.resources
